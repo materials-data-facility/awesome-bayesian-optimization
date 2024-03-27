@@ -35,6 +35,8 @@ The tutorials section includes a collection of hands-on guides, jupyter notebook
 
 - [Acquisition functions in Bayesian Optimization](https://ekamperi.github.io/machine%20learning/2021/06/11/acquisition-functions.html)
 - [Gaussian processes (1/3) - From scratch](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
+
+- [Bayesian machine learning notebooks](https://github.com/krasserm/bayesian-machine-learning)
 ## Software
 
 This section features a curated list of software packages and libraries that implement Bayesian optimization algorithms. These tools provide a wide range of functionalities and are designed to be easily integrated into materials science and chemistry workflows.
