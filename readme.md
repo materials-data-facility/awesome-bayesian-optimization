@@ -38,7 +38,7 @@ The tutorials section includes a collection of hands-on guides, jupyter notebook
 
 ### Notebook Based Tutorials
 - [Bayesian machine learning notebooks](https://github.com/krasserm/bayesian-machine-learning)
-  
+- [Bayesian-Optimization Notebook Examples](https://github.com/bayesian-optimization/BayesianOptimization/tree/master/examples) 
 ## Software
 
 This section features a curated list of software packages and libraries that implement Bayesian optimization algorithms. These tools provide a wide range of functionalities and are designed to be easily integrated into materials science and chemistry workflows.
@@ -63,6 +63,9 @@ This section features a curated list of software packages and libraries that imp
 - [Summit](https://github.com/sustainable-processes/summit) is a set of tools for optimizing chemical processes with a wide variety of design of experiments (DoE) and adaptive design methods along with benchmarks.
 - [GPax](https://github.com/ziatdinovmax/gpax) is a Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization. It supports "deep kernel learning", structured probabilistic mean functions, hypothesis learning workflows, multitask, multifidelity, heteroscedastic, and vector BO and emphasizes user friendliness.
 - [Bayesian Back End (BayBE)](https://github.com/emdgroup/baybe) is a open-source toolbox by [Merck KGaA](https://www.merckgroup.com/) for Bayesian optimization, featuring custom encodings, chemical knowledge integration, hybrid spaces, transfer learning, simulation tools, and robust, serializable code for real-world experimental campaigns.
+- [Bayesian-Optimization](https://github.com/bayesian-optimization/BayesianOptimization) Pure Python implementation of bayesian global optimization with gaussian processes.
+
+
 
 ### Proprietary
 - [ChemOS](https://chemos.io/)
@@ -78,6 +81,7 @@ This section features a curated list of software packages and libraries that imp
 ## Datasets
 The datasets section provides links to publicly available datasets that can be used for benchmarking and evaluating Bayesian optimization algorithms in the context of materials science and chemistry. These datasets should span various domains, such as catalysis, battery materials, and polymers.
 
+- [Foundry-ML](https://foundry-ml.org/#/) A collection of "ML-ready" datasets, with many possibly useful for Bayesian optimization
 
 
 
