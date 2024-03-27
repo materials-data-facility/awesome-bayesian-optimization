@@ -84,7 +84,6 @@ The datasets section provides links to publicly available datasets that can be u
 - [Foundry-ML](https://foundry-ml.org/#/) A collection of "ML-ready" datasets, with many possibly useful for Bayesian optimization
 
 
-
 ## Papers
 This section consists of a list of seminal and state-of-the-art research papers that showcase the application of Bayesian optimization in materials science and chemistry.
 
@@ -92,7 +91,8 @@ This section consists of a list of seminal and state-of-the-art research papers 
 ## Conferences, Workshops, and Hackathons
 This section highlights upcoming and past conferences, workshops, and symposia that focus on the intersection of Bayesian optimization, materials science, and chemistry. These events provide a platform for researchers and practitioners to share their latest findings, exchange ideas, and foster collaborations.
 
-
+## Other Awesome Lists
+[Awesome Design of Experiments (DOE)](https://github.com/danieleongari/awesome-design-of-experiments)
 
 ## Contributing
 
