@@ -31,9 +31,11 @@ Bayesian optimization has emerged as a powerful tool in materials science and ch
 <!-- CONTENT -->
 
 ## Tutorials
-
+The tutorials section includes a collection of hands-on guides, jupyter notebooks, and step-by-step instructions for applying Bayesian optimization techniques to various materials science and chemistry problems.
 
 ## Software
+
+This section features a curated list of software packages and libraries that implement Bayesian optimization algorithms. These tools provide a wide range of functionalities and are designed to be easily integrated into materials science and chemistry workflows.
 
 - [Adaptive Experimentation Platform (Ax)](https://ax.dev/) is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks such as noisy, multi-objective, multi-task, multi-fidelity, batch, high-dimensional, linearly constrained, nonlinearly constrained, mixed continuous/discrete/categorical, and contextual Bayesian optimization.
 - [BoTorch](https://botorch.org/) is the backbone that makes up the Ax platform and allows for greater customization and specialized algorithms such as risk-averse Bayesian optimization and constraint active search.
@@ -68,10 +70,19 @@ Bayesian optimization has emerged as a powerful tool in materials science and ch
 <!-- END CONTENT -->
 
 ## Datasets
+The datasets section provides links to publicly available datasets that can be used for benchmarking and evaluating Bayesian optimization algorithms in the context of materials science and chemistry. These datasets should span various domains, such as catalysis, battery materials, and polymers.
+
+
+
 
 ## Papers
+This section consists of a list of seminal and state-of-the-art research papers that showcase the application of Bayesian optimization in materials science and chemistry.
+
 
 ## Conferences, Workshops, and Hackathons
+This section highlights upcoming and past conferences, workshops, and symposia that focus on the intersection of Bayesian optimization, materials science, and chemistry. These events provide a platform for researchers and practitioners to share their latest findings, exchange ideas, and foster collaborations.
+
+
 
 ## Contributing
 
