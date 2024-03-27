@@ -28,12 +28,14 @@ An Awesome List of Bayesian Optimization resources, software, and tools.
 
 - [Tutorials](#tutorials)
 - [Software](#software)
+- [Papers](#papers)
+- [Datasets](#datasets)
+- [Conferences Workshops and Hackathons]()
 
 <!-- CONTENT -->
 
 ## Tutorials
 
-- [Apple](https://apple.com) - Apple as a placeholder.
 
 ## Software
 
@@ -58,7 +60,7 @@ An Awesome List of Bayesian Optimization resources, software, and tools.
 - [GPax](https://github.com/ziatdinovmax/gpax) is a Python package for physics-based Gaussian processes (GPs) built on top of NumPyro and JAX that take advantage of prior physical knowledge and different data modalities for active learning and Bayesian optimization. It supports "deep kernel learning", structured probabilistic mean functions, hypothesis learning workflows, multitask, multifidelity, heteroscedastic, and vector BO and emphasizes user friendliness.
 - [Bayesian Back End (BayBE)](https://github.com/emdgroup/baybe) is a open-source toolbox by [Merck KGaA](https://www.merckgroup.com/) for Bayesian optimization, featuring custom encodings, chemical knowledge integration, hybrid spaces, transfer learning, simulation tools, and robust, serializable code for real-world experimental campaigns.
 
-#### Proprietary
+### Proprietary
 - [ChemOS](https://chemos.io/)
 - [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
 - IBM Accelerated Discovery
@@ -68,6 +70,12 @@ An Awesome List of Bayesian Optimization resources, software, and tools.
   - [Deep Search](https://ds4sd.github.io/) (semantic extraction from documents)
 
 <!-- END CONTENT -->
+
+## Datasets
+
+## Papers
+
+## Conferences, Workshops, and Hackathons
 
 ## Contributing
 
