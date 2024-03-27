@@ -11,8 +11,8 @@
 
 <!-- description -->
 
-**An Awesome List of Bayesian Optimization resources, software, tools, and more.
-**
+**An Awesome List of Bayesian Optimization resources, software, tools, and more.**
+
 Bayesian optimization has emerged as a powerful tool in materials science and chemistry, enabling efficient exploration of vast chemical spaces and accelerating the discovery of novel materials with desired properties. By intelligently balancing exploration and exploitation, Bayesian optimization algorithms can guide experiments and simulations towards promising regions of the search space, reducing the number of trials required to find optimal solutions. This awesome list curates a collection of software, tutorials, research papers, and other resources related to Bayesian optimization in materials science and chemistry.
 
 
