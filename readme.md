@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/materials-data-facility/awesome-bayesian-optimization/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -18,7 +18,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-An awesome list of Bayesian Optimization resources, software, and tools.
+An Awesome List of Bayesian Optimization resources, software, and tools.
 
 </div>
 
@@ -26,27 +26,20 @@ An awesome list of Bayesian Optimization resources, software, and tools.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Tutorials](#tutorials)
+- [Software](#software)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Tutorials
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Software
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
@@ -54,4 +47,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/materials-data-facility/awesome-bayesian-optimization/graphs/contributors)!
