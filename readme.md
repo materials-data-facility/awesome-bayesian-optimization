@@ -87,6 +87,8 @@ The datasets section provides links to publicly available datasets that can be u
 ## Papers
 This section consists of a list of seminal and state-of-the-art research papers that showcase the application of Bayesian optimization in materials science and chemistry.
 
+Jones, D.R., Schonlau, M. & Welch, W.J. Efficient Global Optimization of Expensive Black-Box Functions. Journal of Global Optimization 13, 455–492 (1998). [https://doi.org/10.1023/A:1008306431147](https://doi.org/10.1023/A:1008306431147)
+
 
 ## Conferences, Workshops, and Hackathons
 This section highlights upcoming and past conferences, workshops, and symposia that focus on the intersection of Bayesian optimization, materials science, and chemistry. These events provide a platform for researchers and practitioners to share their latest findings, exchange ideas, and foster collaborations.
