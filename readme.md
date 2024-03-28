@@ -26,6 +26,7 @@ Bayesian optimization has emerged as a powerful tool in materials science and ch
 - [Software](#software)
 - [Papers](#papers)
 - [Datasets](#datasets)
+- [Videos](#videos)
 - [Conferences Workshops and Hackathons]()
 
 <!-- CONTENT -->
@@ -89,6 +90,8 @@ This section consists of a list of seminal and state-of-the-art research papers 
 
 - Jones, D.R., Schonlau, M. & Welch, W.J. Efficient Global Optimization of Expensive Black-Box Functions. Journal of Global Optimization 13, 455–492 (1998). [link](https://doi.org/10.1023/A:1008306431147)   [open link](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1023/A:1008306431147.pdf&casa_token=wAbPJ52vlQIAAAAA:wkxlv-xJBcynfC61Vg4rSk3JvoeY6u-TJlHI3l9OUxeu-YmPu6Jhz9ESj-F2HSGx6QFG3ObF0mvlbEMMiA) 
 
+## Videos
+- [Coding gaussian process regressors FROM SCRATCH in python](https://www.youtube.com/watch?v=JXdrq7--XV0) Implement a Gaussian process regressor with squared exponential kernel in Python using numpy only and code several interactive plots to visualize it. 
 
 ## Conferences, Workshops, and Hackathons
 This section highlights upcoming and past conferences, workshops, and symposia that focus on the intersection of Bayesian optimization, materials science, and chemistry. These events provide a platform for researchers and practitioners to share their latest findings, exchange ideas, and foster collaborations.
