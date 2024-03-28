@@ -69,6 +69,7 @@ This section features a curated list of software packages and libraries that imp
 
 
 ### Proprietary
+- [Matterhorn Studios](http://matterhorn.studio) A platform for hosting Bayesian optimization algorithms
 - [ChemOS](https://chemos.io/)
 - [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
 - IBM Accelerated Discovery
