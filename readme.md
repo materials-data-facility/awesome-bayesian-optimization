@@ -22,16 +22,16 @@ Bayesian optimization has emerged as a powerful tool in materials science and ch
 
 ## Contents
 
-- [Tutorials](#tutorials)
-- [Software](#software)
-- [Papers](#papers)
-- [Datasets](#datasets)
-- [Videos](#videos)
-- [Conferences Workshops and Hackathons]()
+- 📚 [Tutorials](#tutorials)
+- 💻 [Software](#software)
+- 📄 [Papers](#papers)
+- 🗂️ [Datasets](#datasets)
+- 📹 [Videos](#videos)
+- 🎪 [Conferences Workshops and Hackathons]()
 
 <!-- CONTENT -->
 
-## Tutorials
+## 📚 Tutorials
 The tutorials section includes a collection of hands-on guides, jupyter notebooks, and step-by-step instructions for applying Bayesian optimization techniques to various materials science and chemistry problems.
 
 - [Acquisition functions in Bayesian Optimization](https://ekamperi.github.io/machine%20learning/2021/06/11/acquisition-functions.html)
@@ -40,7 +40,7 @@ The tutorials section includes a collection of hands-on guides, jupyter notebook
 ### Notebook Based Tutorials
 - [Bayesian machine learning notebooks](https://github.com/krasserm/bayesian-machine-learning)
 - [Bayesian-Optimization Notebook Examples](https://github.com/bayesian-optimization/BayesianOptimization/tree/master/examples) 
-## Software
+## 💻 Software
 
 This section features a curated list of software packages and libraries that implement Bayesian optimization algorithms. These tools provide a wide range of functionalities and are designed to be easily integrated into materials science and chemistry workflows.
 
@@ -79,21 +79,21 @@ This section features a curated list of software packages and libraries that imp
 
 <!-- END CONTENT -->
 
-## Datasets
+## 🗂️ Datasets
 The datasets section provides links to publicly available datasets that can be used for benchmarking and evaluating Bayesian optimization algorithms in the context of materials science and chemistry. These datasets should span various domains, such as catalysis, battery materials, and polymers.
 
 - [Foundry-ML](https://foundry-ml.org/#/) A collection of "ML-ready" datasets, with many possibly useful for Bayesian optimization
 
 
-## Papers
+## 📄 Papers
 This section consists of a list of seminal and state-of-the-art research papers that showcase the application of Bayesian optimization in materials science and chemistry.
 
 - Jones, D.R., Schonlau, M. & Welch, W.J. Efficient Global Optimization of Expensive Black-Box Functions. Journal of Global Optimization 13, 455–492 (1998). [link](https://doi.org/10.1023/A:1008306431147)   [open link](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1023/A:1008306431147.pdf&casa_token=wAbPJ52vlQIAAAAA:wkxlv-xJBcynfC61Vg4rSk3JvoeY6u-TJlHI3l9OUxeu-YmPu6Jhz9ESj-F2HSGx6QFG3ObF0mvlbEMMiA) 
 
-## Videos
+## 📹 Videos
 - [Coding gaussian process regressors FROM SCRATCH in python](https://www.youtube.com/watch?v=JXdrq7--XV0) Implement a Gaussian process regressor with squared exponential kernel in Python using numpy only and code several interactive plots to visualize it. 
 
-## Conferences, Workshops, and Hackathons
+## 🎪 Conferences, Workshops, and Hackathons
 This section highlights upcoming and past conferences, workshops, and symposia that focus on the intersection of Bayesian optimization, materials science, and chemistry. These events provide a platform for researchers and practitioners to share their latest findings, exchange ideas, and foster collaborations.
 
 ## Other Awesome Lists
