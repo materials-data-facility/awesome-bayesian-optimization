@@ -107,3 +107,5 @@ This section highlights upcoming and past conferences, workshops, and symposia t
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/materials-data-facility/awesome-bayesian-optimization/graphs/contributors)!
+
+Thank you also to Sterling Baird, who started collecting many of the software links included here. 
