@@ -72,6 +72,7 @@ This section features a curated list of software packages and libraries that imp
 - [Matterhorn Studios](http://matterhorn.studio) A platform for hosting Bayesian optimization algorithms
 - [ChemOS](https://chemos.io/)
 - [The Citrine Platform](https://citrine.io/product/what-is-the-citrine-platform/)
+- [Reincarnate](https://beta.omnihelpfulai.com/) A chat based platform incorporating Bayesian Optmization
 - IBM Accelerated Discovery
   - [RXN for Chemistry](https://rxn.res.ibm.com/)
   - [Simulation Toolkit For Scientific Discovery (ST4SD)](https://st4sd.github.io/overview/)
